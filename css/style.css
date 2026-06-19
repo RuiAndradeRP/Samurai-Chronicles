@@ -119,3 +119,13 @@ section h2 {
 section p {
     text-align: left;
 }
+
+.section-image {
+    width: 100%;
+    max-width: 900px;
+    height: 400px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto 25px auto;
+    border-radius: 10px;
+}
